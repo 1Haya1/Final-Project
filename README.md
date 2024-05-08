@@ -1,4 +1,4 @@
-RenewNSell
+
 RenewNSell simplifies the sale of brand-new defective products by connecting brands with buyers seeking discounted items due to faults.
 
 Class Diagram
