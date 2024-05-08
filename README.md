@@ -10,11 +10,11 @@ Use Case
 You can view the use case diagram here.
 
 Figma Link
-You can view the Figma design here.
-
+[You can view the Figma design here.
+](https://www.figma.com/file/UCHM3h9HjDvOea3peiIJvg/Untitled?type=design&node-id=19%3A1950&mode=design&t=AmbnuXLGHoUZb7Gm-1)
 Presentation Link
-You can view the presentation here.
-
+[You can view the presentation here.
+](https://www.canva.com/design/DAGEipSxZN0/646HXCCE4gTsssZVUNkWrw/edit?utm_content=DAGEipSxZN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 My Work
 getTotalProductForCompany(Integer companyId):integer
