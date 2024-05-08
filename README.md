@@ -3,14 +3,17 @@ RenewNSell simplifies the sale of brand-new defective products by connecting bra
 
 Class Diagram
 ![328710981-74e21d67-9b27-47cf-8486-78bdd1fc397a](https://github.com/1Haya1/Final-Project/assets/154345101/43640240-2844-45b3-8e66-1bf45225bb5b)
+
+
+
 Use Case
 You can view the use case diagram here.
 
 Figma Link
-https://www.figma.com/file/UCHM3h9HjDvOea3peiIJvg/Untitled?type=design&node-id=19%3A1950&mode=design&t=AmbnuXLGHoUZb7Gm-1
+You can view the Figma design here.
+
 Presentation Link
-[You can view the presentation 
-](https://www.canva.com/design/DAGEipSxZN0/646HXCCE4gTsssZVUNkWrw/edit?utm_content=DAGEipSxZN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+You can view the presentation here.
 
 
 My Work
