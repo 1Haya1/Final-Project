@@ -1,5 +1,7 @@
 
 # RenewNSell
+![Screenshot_2024-04-28_213609-removebg-preview](https://github.com/1Haya1/Final-Project/assets/154345101/2770293f-c442-47c9-a10f-ef2adcc3fa74)
+
 
 RenewNSell simplifies the sale of brand-new defective products by connecting brands with buyers seeking discounted items due to faults.
 
