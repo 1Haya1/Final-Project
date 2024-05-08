@@ -23,7 +23,7 @@ You can view the Figma design [here](https://www.figma.com/file/UCHM3h9HjDvOea3p
 You can view the presentation [here](https://www.canva.com/design/DAGEipSxZN0/646HXCCE4gTsssZVUNkWrw/edit?utm_content=DAGEipSxZN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## My Work
-
+Model:Product, Review
 - `getTotalProductForCompany(Integer companyId):integer`
 - `getTotallProducts():Integer`
 - `getProductById(int ):Product`
