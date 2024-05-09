@@ -12,7 +12,8 @@ You can view the class diagram [here](https://drive.google.com/file/d/1adlykwsfl
 
 ## Use Case
 
-You can view the use case diagram [here](link_to_use_case).
+![Uploading UseCaseFinalProject_4.drawio.png…]()
+
 
 ## Figma Link
 
