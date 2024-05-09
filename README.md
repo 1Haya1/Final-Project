@@ -24,6 +24,10 @@ You can view the presentation [here](https://www.canva.com/design/DAGEipSxZN0/64
 
 ## My Work
 Model:Product, Review
+- `addReview
+`
+- `updateReview
+`
 - `getTotalProductForCompany(Integer companyId):integer`
 - `getTotallProducts():Integer`
 - `getProductById(int ):Product`
@@ -52,5 +56,11 @@ Model:Product, Review
 `
 - `AverageProfitCompany
 `
-
-
+- `AddProduct
+`
+- `updateProduct
+`
+- `deleteProduct
+`
+- `deleteReview
+`
