@@ -11,8 +11,8 @@ RenewNSell simplifies the sale of brand-new defective products by connecting bra
 You can view the class diagram [here](https://drive.google.com/file/d/1adlykwsfluoi3I7ytIo0cnQk8RGOMHAK/view?usp=drivesdk).
 
 ## Use Case
+![UseCaseFinalProject_4 drawio](https://github.com/1Haya1/Final-Project/assets/154345101/f18451f6-a822-44e5-a7ca-065016c131c1)
 
-"C:\Users\hayaa\OneDrive\Pictures\UseCaseFinalProject_4.drawio.png"
 
 ## Figma Link
 
